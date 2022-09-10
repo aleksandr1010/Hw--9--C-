@@ -1,0 +1,15 @@
+C:\Users\aleks\OneDrive\Документы\Geekbrains\C#\Hw C#-9\Folder_001\bin\Debug\net6.0\Folder_001.exe
+C:\Users\aleks\OneDrive\Документы\Geekbrains\C#\Hw C#-9\Folder_001\bin\Debug\net6.0\Folder_001.deps.json
+C:\Users\aleks\OneDrive\Документы\Geekbrains\C#\Hw C#-9\Folder_001\bin\Debug\net6.0\Folder_001.runtimeconfig.json
+C:\Users\aleks\OneDrive\Документы\Geekbrains\C#\Hw C#-9\Folder_001\bin\Debug\net6.0\Folder_001.dll
+C:\Users\aleks\OneDrive\Документы\Geekbrains\C#\Hw C#-9\Folder_001\bin\Debug\net6.0\Folder_001.pdb
+C:\Users\aleks\OneDrive\Документы\Geekbrains\C#\Hw C#-9\Folder_001\obj\Debug\net6.0\Folder_001.csproj.AssemblyReference.cache
+C:\Users\aleks\OneDrive\Документы\Geekbrains\C#\Hw C#-9\Folder_001\obj\Debug\net6.0\Folder_001.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\aleks\OneDrive\Документы\Geekbrains\C#\Hw C#-9\Folder_001\obj\Debug\net6.0\Folder_001.AssemblyInfoInputs.cache
+C:\Users\aleks\OneDrive\Документы\Geekbrains\C#\Hw C#-9\Folder_001\obj\Debug\net6.0\Folder_001.AssemblyInfo.cs
+C:\Users\aleks\OneDrive\Документы\Geekbrains\C#\Hw C#-9\Folder_001\obj\Debug\net6.0\Folder_001.csproj.CoreCompileInputs.cache
+C:\Users\aleks\OneDrive\Документы\Geekbrains\C#\Hw C#-9\Folder_001\obj\Debug\net6.0\Folder_001.dll
+C:\Users\aleks\OneDrive\Документы\Geekbrains\C#\Hw C#-9\Folder_001\obj\Debug\net6.0\refint\Folder_001.dll
+C:\Users\aleks\OneDrive\Документы\Geekbrains\C#\Hw C#-9\Folder_001\obj\Debug\net6.0\Folder_001.pdb
+C:\Users\aleks\OneDrive\Документы\Geekbrains\C#\Hw C#-9\Folder_001\obj\Debug\net6.0\Folder_001.genruntimeconfig.cache
+C:\Users\aleks\OneDrive\Документы\Geekbrains\C#\Hw C#-9\Folder_001\obj\Debug\net6.0\ref\Folder_001.dll
